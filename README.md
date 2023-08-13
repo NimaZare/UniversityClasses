@@ -1,2 +1,2 @@
-# UniversityClasses
+# University Classes
 University Classes Manager
